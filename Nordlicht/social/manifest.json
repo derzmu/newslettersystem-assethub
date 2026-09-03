@@ -1,0 +1,22 @@
+{
+  "x": {
+    "url-light": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/x-light.png",
+    "url-dark": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/x-dark.png",
+    "title": "X"
+  },
+  "youtube": {
+    "url-light": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/youtube-light.png",
+    "url-dark": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/youtube-dark.png",
+    "title": "YouTube"
+  },
+  "instagram": {
+    "url-light": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/instagram-light.png",
+    "url-dark": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/instagram-dark.png",
+    "title": "Instagram"
+  },
+  "facebook": {
+    "url-light": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/facebook-light.png",
+    "url-dark": "https://raw.githubusercontent.com/derzmu/newslettersystem-assethub/main/Nordlicht/social/facebook-dark.png",
+    "title": "Facebook"
+  }
+}
